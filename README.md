@@ -1,6 +1,6 @@
-- 👋 Hi, my name is Pol and i am currenntly studying artificial intelligence 
+- 👋 Hi, my name is Pol and i am currently studying artificial intelligence 
 - 👀 I’m interested in all fields of artificial intelligence, autonomous racing, games development and much more
-- 🌱 I’m currently looking to find the best way to generate accurate music, and a Rocket League Bot with reinforcement learning
+- 🌱 I’m currently looking to find the best way to generate accurate (hardstyle) music, and a Rocket League bbot with reinforcement learning
 - 💞️ I’m looking to collaborate on any interesting Projects together so if you would like to colab just hit me up ;)
 - 📫 How to reach me on instagram: braveblackli0n
 
