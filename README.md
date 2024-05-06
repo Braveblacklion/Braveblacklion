@@ -1,7 +1,7 @@
 - 👋 Hi, my name is Joyce and I studied Machine Learning and IT-Security in Germany
-- 👀 I’m interested in all fields of artificial intelligence, autonomous racing, generative ai, games development, app development, IT-Scurity and much more
-- 🌱 I’m currently looking to find the best way to generate accurate (hardstyle) music, and creating a Rocket League bot using reinforcement learning
-- 💞️ I’m looking to collaborate on any interesting Projects together. So if you have an interessting idea in mind, just hit me up :)
+- 👀 I’m interested in all fields of Artificial Intelligence, Games Development, Mobile Development, IT-Security, Sound Design and much more
+- 🌱 I’m currently looking to find the best way to generate accurate music, and creating a Rocket League bot using reinforcement learning
+- 💞️ Open for collaborations
 - 📫 How to reach me: braveblackli0n on Instagram
 
 <!---
